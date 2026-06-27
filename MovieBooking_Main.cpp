@@ -6,7 +6,6 @@
 using namespace std;
 using namespace oracle::occi;
 
-// --- PROTOTYPES ---
 void viewShows(Connection* conn);
 void viewSeatsVisual(Connection* conn);
 void bookTicket(Connection* conn);
